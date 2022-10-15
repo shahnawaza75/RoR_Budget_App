@@ -23,6 +23,7 @@ a:link {
 }
 
 .nav-list {
+  background-color: #3778c2;
   list-style: none;
   padding: 10px 0;
 }
@@ -199,4 +200,16 @@ a:link {
   text-align: center;
   font-size: 18px;
   padding: 2% 0;
+}
+
+.home-budget {
+  color: white;
+}
+
+.btn {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
 }
