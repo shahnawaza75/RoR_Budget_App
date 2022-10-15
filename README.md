@@ -16,7 +16,7 @@
 
 ## Live Presentation Video
 
-[Live Video Link]("https://shan-budget-app.herokuapp.com/")
+[Live Video Link](https://shan-budget-app.herokuapp.com/)
 
 ## Live Demo
 
