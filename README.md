@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[Live Demo Link]("https://shah-budget-app.herokuapp.com/")
+[Live Demo Link](https://shah-budget-app.herokuapp.com/)
 
 ### Getting Started
 
