@@ -16,11 +16,11 @@
 
 ## Live Presentation Video
 
-[Live Video Link](https://shan-budget-app.herokuapp.com/)
+[Live Video Link](https://www.loom.com/share/56ff51f304ed4e968a3b79e1372d9672)
 
 ## Live Demo
 
-[Live Demo Link](coming soon)
+[Live Demo Link]("https://shah-budget-app.herokuapp.com/")
 
 ### Getting Started
 
